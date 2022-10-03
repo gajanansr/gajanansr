@@ -1,8 +1,9 @@
 <h1>
-  Hey there!!! 
-  <br>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" align="center"/>
+  Hey there!!!
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </h1>
+
+---
 
 <div id="badges">
                 <a href="https://www.linkedin.com/in/gajanansr">
@@ -20,14 +21,14 @@
 
   
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-                                                                                               
-- :telescope: I’m currently building projects on React.JS.
-
-- :seedling: Exploring Diffrent Tech Stacks.
-
-- :zap: In my free time, I solve problems on LeetCode and Write Songs.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gajanansr)  
+   
+- 🔭 I’m currently working on Reacy.Js!
+- 🌱 I’m currently learning DSA!
+- 👯 I’m looking to collaborate on Front-End Projects!
+- 💬 I love to talk about technology!
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gajanansr)
+- 😄 Pronouns: He/Him!
+- ⚡ Fun fact: In my free time, I solve problems on LeetCode and Write Songs.
                                           
 ---
 
@@ -48,19 +49,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
                                                                                                             
                                                                                                             
                                                                                                             
-                                                                                                            
- <!--
-**gajanansr/gajanansr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
