@@ -1,6 +1,6 @@
 <h1>
   Hey there!!!
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif width="30px"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif width="30px"/>
 </h1>
 
 <div id="badges">
@@ -12,7 +12,7 @@
  ---
                                                                                                                                            
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
