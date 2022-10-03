@@ -1,7 +1,22 @@
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif width="30px"/>
+  Hey there!!!
+  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif width="30px"/>
 </h1>
+
+<div id="badges">
+                <a href="https://www.linkedin.com/in/gajanansr">
+                  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+                
+                <a href="https://www.youtube.com/gajananrathod">
+                  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+                </a>
+                
+                <a href="https://www.twitter.com/gajanansr1">
+                  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+                </a>
+</div>
+                                                                              
 <!--
 **gajanansr/gajanansr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
