@@ -1,6 +1,6 @@
 <h1>
   Hey there!!!
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30" />
 </h1>
 
 <div id="badges">
