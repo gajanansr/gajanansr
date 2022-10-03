@@ -1,10 +1,7 @@
-### Hi there 👋
-
-<div align="center" >
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
-</div>
-
- 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif width="30px"/>
+</h1>
 <!--
 **gajanansr/gajanansr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
