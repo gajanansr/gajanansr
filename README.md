@@ -1,6 +1,7 @@
 <h1>
-  Hey there!!!
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30" />
+  Hey there!!! 
+  <br>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" align="center"/>
 </h1>
 
 <div id="badges">
