@@ -1,6 +1,6 @@
 <h1>
   Hey there!!!
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif width="30px"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif/>
 </h1>
 
 <div id="badges">
@@ -42,7 +42,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=gajanansr
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gajanansr)](https://git.io/streak-stats)                                                                                                            
                                                                                                             
                                                                                                             
