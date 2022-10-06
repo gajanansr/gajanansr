@@ -26,7 +26,7 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 - 🌱 I’m currently learning React.Js & DSA!
 - 👯 I’m looking to collaborate on Front-End Projects!
 - 💬 I love to talk about technology!
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gajanansr)
+- 📫 How to reach me: **gajanansr.work@gmail.com**
 - 😄 Pronouns: He/Him!
 - ⚡ Fun fact: In my free time, I solve problems on LeetCode and Write Songs.
                                           
