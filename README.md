@@ -50,7 +50,7 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ---
 
-### 📛 Holopin Badges
+### 📛 Holopin Badges :
 
 [![@gajanansr's Holopin board](https://holopin.me/gajanansr)](https://holopin.io/@gajanansr)                                                                               
                                                                                                             
