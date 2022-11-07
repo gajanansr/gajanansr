@@ -48,7 +48,7 @@ I am a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajanansr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-              [![@gajanansr's Holopin board](https://holopin.me/gajanansr)](https://holopin.io/@gajanansr)                                                                                              
+[![@gajanansr's Holopin board](https://holopin.me/gajanansr)](https://holopin.io/@gajanansr)]                                                                                         
                                                                                                             
                                                                                                             
                                                                                                             
